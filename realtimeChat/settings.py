@@ -81,11 +81,11 @@ DATABASES = {
     # }
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'realtime_chatapp',
+        'NAME': 'chat',
         # your details
         'USER': 'keroti',
         'PASSWORD': '@99kigan',
-        'HOST': 'realtimechatapp.postgres.database.azure.com',
+        'HOST': 'shutterlink.postgres.database.azure.com',
         'PORT': '5432'
     }
 }
