@@ -132,4 +132,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CSRF_TRUSTED_ORIGINS=['chatappkeroti.azurewebsites.net']
+CSRF_TRUSTED_ORIGINS=['https://chatappkeroti.azurewebsites.net']
